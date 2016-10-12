@@ -183,8 +183,3 @@ order: -99;
 .reveal .white {
 	background-color: white;
 }
-
-iframe {
-	width: 1000px;
-	height: 500px;
-}
